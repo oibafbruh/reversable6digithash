@@ -5,7 +5,7 @@ Für den Fall, dass interne Aufträge z.B. nach Jahr und Nummer numeriert werden
 > [!WARNING]
 > Wichtig: Interner Key für Verschlüsselung entspricht nicht dem mitgelieferten Beispielkeys!
 
-# Verwendung
+# Installation
 
 1. Node.js installieren: https://www.nodejs.org/en/download/
 2. Projektordner erstellen.
@@ -17,7 +17,7 @@ node cli.js 202501
 ```
 Output -> 969812
 
-# Befehle
+# Verwendung
 
 Normaler (forward) hash:
 ```console
