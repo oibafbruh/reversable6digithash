@@ -2,6 +2,9 @@
 
 Für den Fall, dass interne Aufträge z.B. nach Jahr und Nummer numeriert werden (202401, 202402, ...) und nicht offenlegen möchte wieviele Auftrage man dieses Jahr bereits bekommen hat, wurde diese einfache CLI entwickelt.
 
+[!WARNING]
+Wichtig: Interner Key für Verschlüsselung entspricht nicht dem mitgelieferten Beispielkeys!
+
 # Verwendung
 
 1. Node.js installieren: https://www.nodejs.org/en/download/
