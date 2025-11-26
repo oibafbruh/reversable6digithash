@@ -4,7 +4,7 @@ If internal orders are numbered by year and sequence (202401, 202402,
 ...) and you do not want to reveal how many orders have already been
 received this year, this simple CLI was created.
 
-> \[!WARNING\] **Important:** The internal encryption key may **not**
+> [!WARNING] **Important:** The internal encryption key may **not**
 > match the example keys included in the repository!
 
 # Verwendung
