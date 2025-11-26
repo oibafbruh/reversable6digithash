@@ -7,7 +7,7 @@ received this year, this simple CLI was created.
 > \[!WARNING\] **Important:** The internal encryption key may **not**
 > match the example keys included in the repository!
 
-# Usage
+# Verwendung
 
 1.  Install Node.js: https://www.nodejs.org/en/download/
 2.  Create a project folder.
@@ -23,7 +23,7 @@ Output → `969812`
 
 # Commands
 
-## Normal (forward) hash
+# Befehle
 
 ``` console
 node cli.js "SIX DIGIT NUMBER"
